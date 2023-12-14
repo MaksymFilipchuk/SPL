@@ -1,0 +1,5 @@
+print(" You can use operators: +, -, *, /")
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
+oper = input("Enter the operator: ")
+print("Entered: the first number: ", a, "; the second number: ", b, "; operator: ", oper)
